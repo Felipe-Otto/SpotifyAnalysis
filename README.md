@@ -40,7 +40,7 @@ This project epitomizes the synergy between programming prowess and the richness
 #### Power BI:
 
 > Follow the link to analyze the playlists:
-<a href="https://app.powerbi.com/view?r=eyJrIjoiNTQ2ZWYwODQtZjA3Ni00ZmEwLTgxYjktNGYxMjYwZTQzYTcyIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9)https://app.powerbi.com/view?r=eyJrIjoiNTQ2ZWYwODQtZjA3Ni00ZmEwLTgxYjktNGYxMjYwZTQzYTcyIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9" target="_blank">Power BI Dashboard</a>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNTQ2ZWYwODQtZjA3Ni00ZmEwLTgxYjktNGYxMjYwZTQzYTcyIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9" target="_blank">Power BI Dashboard</a>
 
 
 **All these indicators are interlinked, allowing the joint application of filters for deeper analysis.**
