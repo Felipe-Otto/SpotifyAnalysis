@@ -2,7 +2,7 @@
   <h1>Spotify Analysis</h1>
 </div>
 
-https://github.com/Felipe-Otto/SpotifyAnalysis/assets/93014865/7ca0f261-62a5-499e-94df-19416c30c712
+https://github.com/Felipe-Otto/SpotifyAnalysis/assets/93014865/284af899-5ba3-4a9e-9875-c7d349bb5aa5
 
 
  ### Project skills:
